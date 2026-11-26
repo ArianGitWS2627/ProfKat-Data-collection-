@@ -1,0 +1,194 @@
+##
+#0 REK641 PK1 UAT55/131 jk2001+ JH19 LK19+ UAT51- OEW . #011 männlich  #012 UNIANG: Student #012 UNIANG: Lehrkörper (o. Prof)
+#1 PIT 5 % Abel, Friedrich (1751-1829)
+#1* PIT 5 % Abel, Jakob Friedrich (1751-1829)
+#1a {Bio5} Ev. Theologe, Prof. an der Philosophischen Fakultät.
+#1b {Bio5} 1768 imm., Bacc. art., 1770 Mag. art., 1770-1772 stud. theol.
+#1c {BIB+} {Bio5} 1790 o. Prof. für Logik und Metaphysik, Beredsamkeit und Dichtkunst, 1798-1811 o. Prof. für Prakt. Philosophie und Dichtkunst, 1801/02 und 1808/09 Rektor der Universität. 1811 Prälat und Generalsuperintendent ((oÖhringen)) und Leiter des Seminars ((oSchöntal)). 1823 Generalsuperintendent ((oUrach)) und ((oReutlingen)).
+#2 1790-1811
+#3 (Alte) Philosophische Fakultät 1477-1969
+#4 Logik und Metaphysik; Beredsamkeit und Dichtkunst; Praktische Philosophie
+#5
+#6 9.5.1751 ((oVaihingen/Enz))
+#7 7.7.1829 ((oSchorndorf))
+#8 Konradin Ludwig Abel, Oberamtmann
+#9 Eva Regine Bojons
+#10 a) 1786 Luise Wilhelmine Rosine, Tochter des Christian Gottlieb Schmid, Stadtschreiber ((oSchorndorf)); b) 1810 Friederike Beate, Tochter des Karl Heinrich Rieger, Stiftsprediger und Konsistorialrat ((oStuttgart)), Witwe des Gotthilf Köstlin, Diakon ((oEsslingen))
+#11 Schule ((oVaihingen)), 1764-1768 Klosterschulen ((oDenkendorf)) und ((oMaulbronn)); 1768 Imm. ((oTübingen)) M̑UT 36715%), Bacc. art.; 1770 Mag. art.; 1770-1772 Studium der Theol.
+#12 1772-1790 Prof. für Philos. an der Hohen Karlsschule ((oStuttgart)); 1790 o. Prof. für Logik und Metaphysik, zugleich auch der Beredsamkeit und Dichtkunst ((oTübingen)); 1798 o. Prof. für Prakt. Philos. und Dichtkunst; 1811 Prälat und Generalsuperintendent ((oÖhringen)) und Leiter des Seminars ((oSchöntal)); 1823 Generalsuperintendent ((oUrach)) und ((oReutlingen))
+#13 1786-1790 Prorektor an der Hohen Karlsschule ((oStuttgart)); 1796/97, 1801/02 und 1808/09 Rektor der Universität ((oTübingen)); 1792-1802 Rektor der Burse; 1798-1811 Pädagogarch der Lat. Schulen ob der Steig; 1819 Mitglied der Kammer der Abgeordneten.
+#14 1812 Zivilverdienstorden.
+#17c *ao UAT 44/106 (1798). *nz UAT 51/1a (1808/09-1811). *nz UAT 55 bzw. UAT 131 (1812). *nz UAT 44/117,1 (1791-1796). *nz UAT 44/117,2 (1796-1802). *nz UAT 44/117,3 (1802-1806). *nz UAT 44/117,4 (1806-1808). *nz UAT 44/117,5 (1808-1810). *nz UAT 44/117,6 (1810-1811).
+#17d *ao UBT Programmata.
+#18 *ao Seck, S. 297. *nz NDB 1 (1953) S. 11. *nz Zeller, Bernhard: Jacob Friedrich Abel 1751-1829, in: Heimatbuch für Schorndorf und Umgebung 1964, S. 87-99. *nz Faber 25/369. *nz Tübinger Blätter 38 (1951), S. 38ff.
+#19 *ao Zeller, aaO. *nz LB Stuttgart.
+#21 An
+#23 BIB+
+##
+#0 REK735 JK2019+ GLP01+ GLSF- PK2 JH19 LK19+ UAT51 UAT126 REPw JK*2025+ . #011 männlich #012 UNIANG: Lehrkörper (o. Prof)
+#1 PIT 11 % Aberle, Moritz (1819-1875)
+#1a {Bio5} Kath. Theologe.
+#1b {Bio0}
+#1c {BIB+} {Bio5} 1843-1845 Repetent am Wilhelmsstift, 1845 Gymnasialprofessor in Ehingen, 1848-1850 Direktor des Wilhelmsstifts, 1849-1850 Vorlesungen als Konviktsdirektor an der Philosophischen Fakultät (Pädagogik) und an der Kath.-theologischen Fakultät (neutestamentliche Exegese), 1850-1875 o. Prof. für Moraltheologie (bis 1867) und neutestamentliche Exegese. 1865/66 Rektor.
+#2 1850-1875
+#3 Katholisch-Theologische Fakultät / Fachbereich 2 Katholische Theologie 1817-
+#4 Moraltheologie; NT-Exegese
+#5 katholisch
+#6 25.04.1819 ((oRottum))
+#7 03.11.1875 ((oTübingen))
+#7a Tübingen, Stadtfriedhof, Abteilung E (Hesse -)
+#8 Franz Joseph Aberle, Bauer, Metzger und Schultheiß
+#9 Catharina Christ
+#11 Landschule ((oRottum)); 1830-1833 Lateinschule ((oBiberach an der Riß)); 1833-1837 Konvikt ((oEhingen)); 1837-1841 Studium der Philos. und Kath. Theol. ((oTübingen)); 1841 Priesterseminar ((oRottenburg)).
+#12 1842 Priesterweihe, Vikar ((oRiedlingen)); 1843 Repetent am Konvikt ((oRottweil)) und ((oTübingen)); 1845 Prof. am Oberen Gymnasium ((oEhingen)); 1848 (Amtsantritt 8.1.1849) Leiter des Wilhelmsstifts ((oTübingen)); 1850 o. Prof. für Kath. Moraltheol. und NT-Exegese und Dr. theol. (1867 vom Lehrauftrag Moraltheol. entbunden)
+#13 1865-1866 Rektor der Universität ((oTübingen))
+#14 1866 Orden der Württ. Krone.
+#17c *ao UAT 126/1: 1850-1875 (1955). *nz UAT 51/2: 1849/50-1875/76. *nz UAT 119/64.
+#18 *ao Seck, S. 297. *nz Kustermann, Abraham Peter: Geharnischtes Tübinger Nachwort zu Ultramontanismus und Erstem Vatikanum, in: Rottenburger Jb. für Kirchengesch. 3 (1984) S. 169-183. *nz Gross, Werner: Das Wilhelmsstift Tübingen 1817-1869 (= Contubernium 32), 2. Aufl. 1984, S. 172-186. *nz Theol. Quartalschrift 150.
+#18a *ao http://www.wlb-stuttgart.de/literatursuche/fachinformationen/theologie/links/theologie-in-wuerttemberg/ (2015).
+#19 *ao UBT L XV 60 (quart), Nr. 1 (1862).
+#23 BIB+
+#24 GND 116003197
+##
+#0 PK3 JH? LK? Hermann GL24. #011 weiblich #012 UNIANG: Lehrkörper (o. Prof)
+#1 PIT 16 % Abramowski, Luise (1928-2014)
+#1* PIT 16 % Abramowski, Luise Käte Charlotte (1928-2014)
+#1a {Bio5} Evangelische Theologin.
+#1b {Bio0}
+#1c {BIB+} {Bio4} 1974-1994 o. Prof. für Kirchengeschichte in Tübingen.
+#2 1974-1994
+#3 Evangelisch-Theologische Fakultät / Fachbereich 1 Evangelische Theologie 1817-
+#4 Kirchengeschichte
+#6 8.07.1928 ((oSchwentainen, Kr. Ortelsburg, Ostpreußen))
+#7 3.11.2014 ((oTübingen))
+#11 1946 Abitur ((oPotsdam)); Studium der Evang. Theologie an der Kirchl. Hochschule ((oBerlin)) und Universität ((oBonn)); 1956 Dr. theol. ((oBonn)); 1962 Habilitation für Kirchengeschichte
+#12 1952 Wiss. Ass. ((oBonn)); 1962 PDoz.; 1964 Diätendoz.; 1967 apl. Prof.; 1970 Wiss. Rätin; 1974 o. Prof. für Kirchengeschichte ((oTübingen)); 1994 Emeritierung.
+#17c *ao FrB. *nz UAT 315/259 [Lehrstuhlbesetzung]. *nz UAT 759/4100 und 4101 (PA UNI Bonn).
+#18 *ao Attempto 53/54 (1974/1975), 122f. *nz TUN 28 (2008), Nr. 140 vom 23.06.2008, S. 12 (Personalia: Geburtstage).
+#19 *ao UAT S 35/1, 436 (Personen) (Attempto 53/54 (1974/1975), 122). *nz Attempto 53/54 (1974/1975), 122.
+#21 Em
+#23 BIB+
+##
+#0 REK641 PK1 UAT55/131 jk2001+ JH19 LK19+ UAT51- OEW . #011 männlich  #012 UNIANG: Student #012 UNIANG: Lehrkörper (o. Prof)
+#1 PIT 5 % Abel, Friedrich (1751-1829)
+#1* PIT 5 % Abel, Jakob Friedrich (1751-1829)
+#1a {Bio5} Ev. Theologe, Prof. an der Philosophischen Fakultät.
+#1b {Bio5} 1768 imm., Bacc. art., 1770 Mag. art., 1770-1772 stud. theol.
+#1c {BIB+} {Bio5} 1790 o. Prof. für Logik und Metaphysik, Beredsamkeit und Dichtkunst, 1798-1811 o. Prof. für Prakt. Philosophie und Dichtkunst, 1801/02 und 1808/09 Rektor der Universität. 1811 Prälat und Generalsuperintendent ((oÖhringen)) und Leiter des Seminars ((oSchöntal)). 1823 Generalsuperintendent ((oUrach)) und ((oReutlingen)).
+#2 1790-1811
+#3 (Alte) Philosophische Fakultät 1477-1969
+#4 Logik und Metaphysik; Beredsamkeit und Dichtkunst; Praktische Philosophie
+#5
+#6 9.5.1751 ((oVaihingen/Enz))
+#7 7.7.1829 ((oSchorndorf))
+#8 Konradin Ludwig Abel, Oberamtmann
+#9 Eva Regine Bojons
+#10 a) 1786 Luise Wilhelmine Rosine, Tochter des Christian Gottlieb Schmid, Stadtschreiber ((oSchorndorf)); b) 1810 Friederike Beate, Tochter des Karl Heinrich Rieger, Stiftsprediger und Konsistorialrat ((oStuttgart)), Witwe des Gotthilf Köstlin, Diakon ((oEsslingen))
+#11 Schule ((oVaihingen)), 1764-1768 Klosterschulen ((oDenkendorf)) und ((oMaulbronn)); 1768 Imm. ((oTübingen)) M̑UT 36715%), Bacc. art.; 1770 Mag. art.; 1770-1772 Studium der Theol.
+#12 1772-1790 Prof. für Philos. an der Hohen Karlsschule ((oStuttgart)); 1790 o. Prof. für Logik und Metaphysik, zugleich auch der Beredsamkeit und Dichtkunst ((oTübingen)); 1798 o. Prof. für Prakt. Philos. und Dichtkunst; 1811 Prälat und Generalsuperintendent ((oÖhringen)) und Leiter des Seminars ((oSchöntal)); 1823 Generalsuperintendent ((oUrach)) und ((oReutlingen))
+#13 1786-1790 Prorektor an der Hohen Karlsschule ((oStuttgart)); 1796/97, 1801/02 und 1808/09 Rektor der Universität ((oTübingen)); 1792-1802 Rektor der Burse; 1798-1811 Pädagogarch der Lat. Schulen ob der Steig; 1819 Mitglied der Kammer der Abgeordneten.
+#14 1812 Zivilverdienstorden.
+#17c *ao UAT 44/106 (1798). *nz UAT 51/1a (1808/09-1811). *nz UAT 55 bzw. UAT 131 (1812). *nz UAT 44/117,1 (1791-1796). *nz UAT 44/117,2 (1796-1802). *nz UAT 44/117,3 (1802-1806). *nz UAT 44/117,4 (1806-1808). *nz UAT 44/117,5 (1808-1810). *nz UAT 44/117,6 (1810-1811).
+#17d *ao UBT Programmata.
+#18 *ao Seck, S. 297. *nz NDB 1 (1953) S. 11. *nz Zeller, Bernhard: Jacob Friedrich Abel 1751-1829, in: Heimatbuch für Schorndorf und Umgebung 1964, S. 87-99. *nz Faber 25/369. *nz Tübinger Blätter 38 (1951), S. 38ff.
+#19 *ao Zeller, aaO. *nz LB Stuttgart.
+#21 An
+#23 BIB+
+##
+#0 UAT51 UAT55/131 UAT126 JH19 LK19+ . #011 männlich #012 UNIANG: Lehrkörper (o. Prof) #012 NICHT_UNIANG: ausw. Lehrkörper
+#1 PIT 13065 % Socin, Albert (1844-1899)
+#1a {Bio5} Orientalist.
+#1b {Bio4}
+#1c {BIB+} {Bio5} 1870 PDoz., 1873 ao. Prof. für oriental. Sprachen in ((oBasel)), 1876-1890 o. Prof. für semitische Sprachen in Tübingen, 1890-1899 in ((oLeipzig)).
+#2 1876-1890
+#3 (Alte) Philosophische Fakultät 1477-1969
+#4 Orientalische Sprachen
+#5 evangelisch
+#6 13.10.1844 ((oBasel))
+#7 24.06.1899 ((oLeipzig))
+#12 1870 PDoz. 1873 ao. Prof. in Basel, 1876-1890 in Tübingen, 1890-1899 in Leipzig.
+#17c *ao UAT 126/654: 1873-1889. *nz UAT 51/635: 1876-1889/90. *nz UAT 55 bzw. UAT 131: 1875-1892. *nz UAT 119/162.
+#18 *ao Heyd, Bd. 6, 374.
+#19 *ao UBT L XV 483, Bd. 2, Nr. 73 (28.11.1876). *nz UBT L XV 60 (quart), Nr. 74 (1885). *nz UBT L XV 60 (quart), Nr. 128.
+#21 Programm: p.bio.
+#23 BIB+
+#24 GND 117442461
+##
+#0 JK2007- UAT51 LK19 JH19 REPW? . #011 männlich #012 UNIANG: Lehrkörper (Lehrbeauftragter)
+#1 PIT 13105 % Späth, Joseph (1857-1915)
+#1a {Bio5} Kath. Theologe.
+#1b {Bio0}
+#1c {BIB-} {Bio4} 1883-1888 Repetent am Wilhelmsstift, 1888 Vorlesungen (Philosophie), 1888 Stadtpfarrer in Cannstatt, 1900 in Biberach, 1914 in Schwenningen.
+#2 1888-
+#3 Katholisch-Theologische Fakultät / Fachbereich 2 Katholische Theologie 1817-
+#4
+#6 12.9.1857 ((oAulendorf))
+#7 16.10.1915 ((oBiberach))
+#12 1883-1888 Repetent am Wilhelmsstift, 1888 Vorlesungen (Philosophie), 1888 Stadtpfarrer in Cannstatt, 1900 Stadtpfarrer in Biberach, ab 1914 in Schwenningen
+#17c *ao UAT 51/637: 1888.
+#18 *ao PK 1909/147. *nz PK 1929/33.
+#23 BIB-
+##
+#0 UAT51 UAT126 JH19 LK19+ . #011 männlich #012 UNIANG: Lehrkörper
+#1 PIT 15005 % Widenmann, Wilhelm von (1798-1844)
+#1a {Bio5} Forstwissenschaftler.
+#1b {Bio4}
+#1c {BIB+} {Bio4} 1822-1825 PDoz. der Forstwissenschaft in Tübingen, 1823-1827 Revierförster in Bebenhausen, 1825-1829 ao. Prof. der Forstwissenschaft, 1829-1836 o. Prof. der Land- und Forstwissenschaft in Tübingen, 1836 Oberförster in Bebenhausen.
+#2 1825-1836
+#3 Staatswissenschaftliche Fakultät
+#4 Forstwissenschaft, Landwirtschaft
+#5
+#6 18.10.1798 ((oCalw))
+#7 14.07.1844 ((oBebenhausen))
+#12 1818-1820 Feldjäger, Studium auf der mit dem Feldjägerkorps verbundenen Forstlehranstalt, 1822 Pdoz. in Tübingen, 1823-1827 Revierförster in Bebenhausen, 1825 ao. Prof. der Forstwissenschaft, 1829-1836 o. Prof. der Land- und Forstwissenschaft, 1836 Oberförster in Bebenhausen.
+#17c *ao UAT 126/764: 1821-1836. *nz UAT 51/719: 1822/23-1835. *nz UAT 727/174.
+#18 *ao Heyd, Bd. 2, 683. *nz Marcon/Strecker, S. 167ff.
+#19 *ao UAT S 22/156 (U).
+#21 Programm: p.bio.
+#23 BIB+
+#24 GND 100716784
+##
+#0 JK2011- PK1309 UAT51 LK19 PA1 UAT126 JH20 LK20+ WÜBI? JK*2022+ . #011 männlich #012 UNIANG: Lehrkörper
+#1 PIT 15213 % Wislicenus, Wilhelm Gustav (1861-1922)
+#1a {Bio5} Chemiker.
+#1b {Bio4}
+#1c {BIB+} {Bio4} 1902-1922 o. Prof. der Chemie in Tübingen.
+#2 1902-1922
+#3 Mathematisch-Naturwissenschaftliche Fakultät
+#4 Chemie
+#5
+#6 23.01.1861 ((oZürich))
+#7 08.06.1922 ((oTübingen))
+#7a Tübingen, Stadtfriedhof ?
+#11 1879 Abitur ((oWürzburg)); 1880-1885 Studium der Physik, Mathematik und Chemie ((oMünchen)), ((oStraßburg)) und ((oWürzburg)); 1885 Dr. phil. ((oWürzburg)); 1888 Habilitation
+#12 Wiss. Ass. ((oWürzburg)); 1889 ao. Prof. ((oWürzburg)); 1902 o. Prof. für Chemie ((oTübingen)).
+#14 1918 Ehrenkreuz des Ordens der Württ. Krone.
+#15 Deutsche Chemische Gesellschaft (Vorsitzender); Deutsche Pharmazeutische Gesellschaft
+#17c *ao UAT 51/727: 1902/03-1912/13. *nz UAT 126/768: 1902-1922 (1923, 1933). *nz UAT 183/16: Nachlasssplitter (1885-1922){AZ: 412-75, Akz. 31/77}{, nicht in ZDN}. *nz UAT 119/237. *nz UAT 119/28.
+#19 *ao UAT S 19/Personen. *nz UAT S 19/37-11-3 Nr. 3. *nz UAT S 21/290. *nz UAT S 21/293. *nz UAT S 33/47 [Nr. 116] (um 1917).
+#21 Programm: p.bio.
+#23 BIB+
+#24 GND 117413127
+##
+#0 JK2013- PK1319 G80+ GLSF JH20 LK20+ . #011 männlich #012 UNIANG: Lehrkörper
+#1 PIT 15410 % Wundt, Max Wilhelm August (1879-1963)
+#1a {Bio5} Philosoph.
+#1b {Bio4}
+#1c {BIB+} {Bio4} 1907 PDoz. in Straßburg, 1918 ao. Prof. in Marburg, 1920 o. Prof. in Jena, 1929-1945 (Sept. 1945 emeritiert) o. Prof. für Philosophie in Tübingen.
+#2 1929-1945
+#3 Philosophische Fakultät
+#4 Philosophie
+#5
+#6 29.01.1879 ((oLeipzig))
+#7 31.10.1963 ((oTübingen))
+#7a Tübingen, Stadtfriedhof, Abteilung K, Reihe XVII Nr. 6 (Hesse IX, Nr. 6) (IIc)
+#11 1898 Abitur ((oLeipzig)); 1898-1903 Studium der Philos. ((oBerlin)), ((oFreiburg/Br.)) und ((oLeipzig)); 1907 Habilitation ((oStraßburg)).
+#12 1918 ao. Prof. ((oMarburg/Lahn)); 1920 o. Prof. ((oJena)); 1929-1945 (Sept. 1945 emeritiert) o. Prof. für Philos. ((oTübingen)).
+#15 Dt. Akademie der Wissenschaften
+#17c *ao UAT 126a/539. *nz UAT 131/456 (1961-1963). *nz UAT 228: Nachlass (1854-1949). *nz UAT 119/144.
+#18 *ao ZDN.
+#19 *ao UAT S 19/47 (Grab). *nz UAT S 21/262 oder 34 (Grab). *nz UAT S 23/1. *nz UAT 126a/539. *nz UAT S 21/221. *nz Attempto 13 (1964), 52.
+#20
+#23 BIB+
+#24 GND 117356271
+##
